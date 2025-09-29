@@ -182,15 +182,16 @@ Juan Pablo de la torre por los cursos impartidos.
 ## 📸 Capturas de Pantalla
 
 ### Vista Desktop
-![Desktop View](https://via.placeholder.com/800x400/667eea/ffffff?text=Vista+Desktop)
+<img width="1324" height="833" alt="image" src="https://github.com/user-attachments/assets/a252fcf5-efbe-4139-8e35-2e9f056b0703" />
+
 
 ### Vista Mobile
-![Mobile View](https://via.placeholder.com/400x600/667eea/ffffff?text=Vista+Mobile)
+![WhatsApp Image 2025-09-28 at 9 36 50 PM](https://github.com/user-attachments/assets/b83e9674-7f8d-4f63-b15e-e13c6421b6b1)
 
-### Alertas
-![Alertas](https://via.placeholder.com/800x200/667eea/ffffff?text=Sistema+de+Alertas)
 
----
+![WhatsApp Image 2025-09-28 at 9 36 50 PM (1)](https://github.com/user-attachments/assets/17bcf9b1-8492-4e1e-bc2e-e04ab06532f3)
+
+
 
 ⭐️ Si este proyecto te ha sido útil, ¡no olvides darle una estrella!
 
